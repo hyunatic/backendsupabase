@@ -1,7 +1,6 @@
 const express = require('express')
 const fetch = require('node-fetch');
 var cors = require('cors');
-const { json } = require('express');
 
 
 const app = express()
